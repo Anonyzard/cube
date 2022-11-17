@@ -1,6 +1,12 @@
 # Cube
 
-A fork of [cube](http://cubeengine.com/cube.php) with improvements to compile
+A fork of [cube game engine](http://cubeengine.com/cube.php) with improvements to compile
+
+## Dependencies
+
+- libsdl-image1.2-dev
+- libsdl-mixer1.2-dev
+
 
 ## Compile
 

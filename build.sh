@@ -1,6 +1,8 @@
 cd enet
 ./configure
 make
+automake --add-missing
+make
 cd ../src
 make
 cd ..
